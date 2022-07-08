@@ -34,6 +34,10 @@ python pip install syspath
 python pagerduty.py
 ```
 
+# Example Spreadsheet
+
+![Clipboard 2022-09-06 at 1 48 23 PM](https://user-images.githubusercontent.com/83222330/178021967-be1c3033-a777-4b2a-936f-2aea44cc522c.png)
+
 # What columns are generated in CSV?
 
 - incident_number
